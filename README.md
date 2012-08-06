@@ -6,6 +6,7 @@
 
 Inhibitor catches any parse, fatal errors or exceptions of your application and handles them properly.
 By "properly" means:
+
  - formats the error message
  - logs the error
  - mails the error
