@@ -38,6 +38,6 @@ Inhibitor is tested with CodeIgniter 2.1.2
 
 ## Demo
 
-[Download][1] Inhibitor that comes with CodeIgniter 2.1.2 and an example page that tests three PHP error levels.
+[Download][1] the latest version that comes with CodeIgniter 2.1.2 and an example page that tests three PHP error levels.
 
-  [1]: http://
+  [1]: https://bitbucket.org/vdw/inhibitor/get/bba9455842dc.zip
