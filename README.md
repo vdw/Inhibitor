@@ -5,6 +5,7 @@
 ## What it does
 
 Inhibitor catches any parse, fatal errors or exceptions of your application and handles them properly.
+
 By "properly" means:
 
  - formats the error message
